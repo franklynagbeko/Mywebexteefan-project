@@ -1,0 +1,163 @@
+html 
+
+body {
+      color: black;
+  
+    }
+
+    img {
+      border-radius: 50%;
+      padding-left: 10px;
+      height: auto;
+      width: auto;
+      display: flex ;
+    }
+
+
+.click-link {
+    color: blue;
+    margin-left: 15px;
+  }
+
+.click-LInk:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+    p {
+      margin-right: 10px;
+      margin-left: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 16px;
+   
+      font-size: 18px;
+
+    }
+
+  .Subscribe-button {
+    background-color: rgb(221, 21, 21);
+    color:  white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: top;
+
+    }
+
+    .Subscribe-button:hover{
+      background-color: green;
+
+    }
+
+    .Subscribe-button:active{
+     background-color: aqua;
+    }
+
+    .Join-button {
+      background-color: rgba(255, 255, 255, 0.74);
+      border-color: rgb(6, 95, 212);
+      border-style: solid;
+      border-width: 1px;
+      color: rgb(6, 95, 212);
+      border-radius: 2px;
+      cursor: pointer;
+      padding-top: 9px;
+      padding-bottom: 9px;
+      padding-left: 16px;
+      padding-right: 16px;
+      trannsition: background-color 1s, 
+      color: 1s;
+      }
+
+
+    .Join-button:hover {
+      background-color: rgb(41, 118, 211);
+      color: white;
+    }
+
+      .Tweet-button {
+        background-color: rgb(2, 158, 255);
+        color: white;
+        border : none;
+        height: 36px;
+        width: 70px;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        margin-left: 10px;
+        vertical-align: top;
+
+
+      }
+    .Tweet-button:hover{
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 15) ;
+    }
+
+
+  p{
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  }
+
+
+    .Video-Tille {
+      font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 5px ;
+    }
+
+  .Video-stats {
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px ;
+  }
+
+  .Video-Author {
+    font-size: 14px ;
+    color: rgb(96, 96, 96);
+    margin-bottom: 0px;
+    margin-bottom: 20px;
+
+  }
+
+  .Video-description {
+    font-size: 14px;
+    width: 280px;
+    color: rgb(96, 96, 96);
+    line-height: 20px;
+    margin-bottom: 100px;
+
+  }
+
+  .Apple-Text {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .Shop-LInk {
+  color: white;
+  margin-left: 15px;
+
+  }
+
+  .Shop-LInk:hover {
+    text-decoration: underline;
+    cursor: pointer;
+
+  }
